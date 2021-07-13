@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <h1>OutPut</h1>
-![image](https://user-images.githubusercontent.com/45985801/125433189-c2559223-fa9b-4c5c-bbce-6ea2550d705a.png)
+![alt image](https://user-images.githubusercontent.com/45985801/125433189-c2559223-fa9b-4c5c-bbce-6ea2550d705a.png)
 
 
