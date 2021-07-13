@@ -72,4 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <h1>OutPut</h1>
 
+![image](https://user-images.githubusercontent.com/45985801/125433679-dd2652b3-ae30-458d-9243-2abdcb4d4dcb.png)
+
+
 
